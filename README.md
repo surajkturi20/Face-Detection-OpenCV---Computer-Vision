@@ -12,3 +12,4 @@ The project uses opencv module and haarcascades file to detect faces in the imag
 
 <li>opencv
 <li>matplotlib
+"# Face-Detection-OpenCV---Computer-Vision" 
